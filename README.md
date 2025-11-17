@@ -28,19 +28,68 @@ Use this index to explore my work:
 
 ## 🛠️ Tech Stack
 
-### **Cybersecurity / Forensics**
-- Wireshark • Autopsy • FTK-style workflows • OSINT tools  
-- Network analysis • Packet inspection • Threat modeling  
-- SIEM fundamentals • Linux/Windows security  
+### 🔐 Cybersecurity & Digital Forensics
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-005571?logo=nmap&logoColor=white)
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-6A5ACD?style=flat)
+![Hex Analysis](https://img.shields.io/badge/Hex_Analysis-4B0082?style=flat)
+![Data Recovery](https://img.shields.io/badge/Data_Recovery-1E90FF?style=flat)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-555?style=flat)
+![FTK](https://img.shields.io/badge/FTK-0A84FF?style=flat)
+![PC3000](https://img.shields.io/badge/PC3000-DA291C?style=flat)
 
-### **Hardware / IoT / Embedded**
-- ESP8266 • ESP32 • Arduino • Sensors • Home Assistant  
-- Power systems • PCB fundamentals • Device diagnostics  
+---
 
-### **Software / Tools**
-- Python (automation, analysis)  
-- Bash • Linux • Git • GitHub  
-- Notion • ClickUp (for workflow automation)
+### 🛰️ Embedded Systems / IoT
+![ESP32](https://img.shields.io/badge/ESP32-000?logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-000?logo=arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![PIC](https://img.shields.io/badge/PIC_Microcontrollers-CC0000?style=flat)
+![ATmega](https://img.shields.io/badge/ATmega_Microcontrollers-0A3161?style=flat)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?logo=homeassistant&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white)
+![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?logo=zigbee&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white)
+
+---
+
+### 💻 Programming & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?logo=redhat&logoColor=white)
+![SUSE](https://img.shields.io/badge/SUSE-0C322C?logo=suse&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=white)
+
+---
+
+### 🔧 Hardware Diagnostics & Data Recovery
+![SMD Soldering](https://img.shields.io/badge/SMD_Soldering-FF8C00?style=flat)
+![Hot Air Station](https://img.shields.io/badge/Hot_Air_Rework-FF4500?style=flat)
+![Oscilloscope](https://img.shields.io/badge/Oscilloscope-1E90FF?style=flat)
+![Multimeter](https://img.shields.io/badge/Multimeter-228B22?style=flat)
+![Microscope](https://img.shields.io/badge/Microscope-8A2BE2?style=flat)
+![PCB Repair](https://img.shields.io/badge/PCB_Repair-2E8B57?style=flat)
+![Firmware Debugging](https://img.shields.io/badge/Firmware_Debugging-483D8B?style=flat)
+![HDD/SSD Diagnostics](https://img.shields.io/badge/HDD/SSD_Diagnostics-696969?style=flat)
+
+---
+
+### 🟡 Electronics Engineering
+![PCB Design](https://img.shields.io/badge/PCB_Design-006400?style=flat)
+![Proteus](https://img.shields.io/badge/Proteus-1F63AE?style=flat)
+![Altium](https://img.shields.io/badge/Altium-402F2D?logo=altiumdesigner&logoColor=white)
+![Circuit Design](https://img.shields.io/badge/Circuit_Design-8B0000?style=flat)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FFB800?logo=labview&logoColor=black)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-008080?style=flat)
+
+
 
 ---
 
