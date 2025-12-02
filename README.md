@@ -99,6 +99,9 @@ Use this index to explore my work:
 🔗 [data-recovery-cases](https://github.com/FGlez21/data-recovery-cases)  
 Real-world HDD diagnostics with photos, symptoms, and technical notes.
 
+### **⚡Power Supply**
+🔗 [bench-dual-power-supply](https://github.com/FGlez21/bench-dual-power-supply)  
+My first engineering project.
 ---
 
 ### **🧪 IoT / Embedded Projects (coming soon)**
