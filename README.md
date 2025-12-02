@@ -106,8 +106,8 @@ My first engineering project.
 ---
 
 ### **🧪 IoT / Embedded Projects (coming soon)**
-🔗 Add here once you upload them  
-*Examples you could include:*  
+🔗 coming soon 
+Examples 
 - ESP8266 LCD insult generator  
 - Home Assistant alarm system  
 - Sensor-based power monitoring  
@@ -116,7 +116,7 @@ My first engineering project.
 ---
 
 ### **🔐 Cybersecurity & Forensics Labs (coming soon)**
-🔗 Add repo links here as you upload your Packet Captures, Wireshark labs, OSINT exercises, etc.
+🔗 MOre links coming soon
 
 ---
 
