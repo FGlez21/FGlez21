@@ -136,7 +136,7 @@ https://github.com/FGlez21/data-recovery-cases
 ## 🌐 Connect with Me
 📍 **Chicago, IL**  
 🔗 **LinkedIn:** https://www.linkedin.com/in/francisco-gonzalez  
-📧 **Email:** *(tu correo si lo quieres agregar)*  
+📧 **Email:** fg211196@gmail.com 
 
 ---
 
