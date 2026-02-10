@@ -116,7 +116,7 @@ Examples
 ---
 
 ### **🔐 Cybersecurity & Forensics Labs (coming soon)**
-🔗 MOre links coming soon
+🔗 More links coming soon
 
 ---
 
@@ -129,7 +129,7 @@ https://github.com/FGlez21/FGlez21
 ➡️ **Data Recovery Cases:**  
 https://github.com/FGlez21/data-recovery-cases  
 
-➡️ *(More coming soon as you upload projects)*
+➡️ *(More coming soon)*
 
 ---
 
