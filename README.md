@@ -10,9 +10,9 @@ I value precision, integrity, and continuous learning. My work now focuses on cy
 Use this index to explore my work:
 
 - [🧑‍💻 About Me](#-about-me)
-- [🛠️ Tech Stack](#️-tech-stack)
 - [🔍 Featured Projects](#-featured-projects)
 - [📂 All Repositories](#-all-repositories)
+-  [🛠️ Tech Stack](#️-tech-stack)
 - [🌐 Connect with Me](#-connect-with-me)
 
 ---
@@ -23,6 +23,51 @@ Use this index to explore my work:
 - 💽 Experienced in **data recovery, drive diagnostics, firmware-level analysis**, RAID rebuilds, and hardware troubleshooting.
 - 🛰️ Passionate about **IoT, embedded systems, network security, and digital evidence workflows**.
 - 🧪 Strong interest in incident response, system auditing, and securing small/medium businesses.
+
+---
+
+
+## 🔍 Featured Projects
+
+### **📑 Industrial Failure Analysis**
+🔗 [industrial-failure-analysis](https://github.com/FGlez21/industrial-failure-analysis)  
+Technical Investigation into Diverter Gate Failures (USPS Chicago P&DC).
+
+### **📁 Data Recovery Cases**
+🔗 [data-recovery-cases](https://github.com/FGlez21/data-recovery-cases)  
+Real-world HDD diagnostics with photos, symptoms, and technical notes.
+
+### **⚡Power Supply**
+🔗 [bench-dual-power-supply](https://github.com/FGlez21/bench-dual-power-supply)  
+My first engineering project.
+
+---
+
+### **🧪 IoT / Embedded Projects (coming soon)**
+🔗 coming soon 
+Examples 
+- ESP8266 LCD insult generator  
+- Home Assistant alarm system  
+- Sensor-based power monitoring  
+- Livestock smart collar device  
+
+---
+
+### **🔐 Cybersecurity & Forensics Labs (coming soon)**
+🔗 More links coming soon
+
+---
+
+## 📂 All Repositories
+Click to explore everything:
+
+➡️ **Full Profile Repo:**  
+https://github.com/FGlez21/FGlez21  
+
+➡️ **Data Recovery Cases:**  
+https://github.com/FGlez21/data-recovery-cases  
+
+➡️ *(More coming soon)*
 
 ---
 
@@ -90,50 +135,6 @@ Use this index to explore my work:
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-008080?style=flat)
 
 
-
----
-
-## 🔍 Featured Projects
-
-### **📑 Industrial Failure Analysis**
-🔗 [industrial-failure-analysis](https://github.com/FGlez21/industrial-failure-analysis)  
-Technical Investigation into Diverter Gate Failures (USPS Chicago P&DC).
-
-### **📁 Data Recovery Cases**
-🔗 [data-recovery-cases](https://github.com/FGlez21/data-recovery-cases)  
-Real-world HDD diagnostics with photos, symptoms, and technical notes.
-
-### **⚡Power Supply**
-🔗 [bench-dual-power-supply](https://github.com/FGlez21/bench-dual-power-supply)  
-My first engineering project.
-
----
-
-### **🧪 IoT / Embedded Projects (coming soon)**
-🔗 coming soon 
-Examples 
-- ESP8266 LCD insult generator  
-- Home Assistant alarm system  
-- Sensor-based power monitoring  
-- Livestock smart collar device  
-
----
-
-### **🔐 Cybersecurity & Forensics Labs (coming soon)**
-🔗 More links coming soon
-
----
-
-## 📂 All Repositories
-Click to explore everything:
-
-➡️ **Full Profile Repo:**  
-https://github.com/FGlez21/FGlez21  
-
-➡️ **Data Recovery Cases:**  
-https://github.com/FGlez21/data-recovery-cases  
-
-➡️ *(More coming soon)*
 
 ---
 
