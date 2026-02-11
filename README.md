@@ -95,6 +95,10 @@ Use this index to explore my work:
 
 ## 🔍 Featured Projects
 
+### **📑 Data Recovery Cases**
+🔗 [thermal-saturation-analysis](https://github.com/FGlez21/thermal-saturation-analysis)  
+Real-world HDD diagnostics with photos, symptoms, and technical notes.
+
 ### **📁 Data Recovery Cases**
 🔗 [data-recovery-cases](https://github.com/FGlez21/data-recovery-cases)  
 Real-world HDD diagnostics with photos, symptoms, and technical notes.
