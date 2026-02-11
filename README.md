@@ -97,7 +97,7 @@ Use this index to explore my work:
 
 ### **📑 Thermal Saturation and Mechanical Analysis**
 🔗 [thermal-saturation-analysis](https://github.com/FGlez21/thermal-saturation-analysis)  
-Real-world HDD diagnostics with photos, symptoms, and technical notes.
+Technical Investigation into Diverter Gate Failures (USPS Chicago P&DC).
 
 ### **📁 Data Recovery Cases**
 🔗 [data-recovery-cases](https://github.com/FGlez21/data-recovery-cases)  
