@@ -31,15 +31,15 @@ Use this index to explore my work:
 
 ### **📑 Industrial Failure Analysis**
 🔗 [industrial-failure-analysis](https://github.com/FGlez21/industrial-failure-analysis)  
-Technical Investigation into Diverter Gate Failures (USPS Chicago P&DC).
+In-depth Root Cause Analysis (RCA) of electromagnetic actuator failures in high-speed industrial environments. This project utilises electrical profiling, copper TCR thermal estimation, and mechanical load modelling to identify failure modes beyond simple component wear. Includes a formal white paper in IEEE format documenting thermal saturation thresholds.
 
 ### **📁 Data Recovery Cases**
 🔗 [data-recovery-cases](https://github.com/FGlez21/data-recovery-cases)  
-Real-world HDD diagnostics with photos, symptoms, and technical notes.
+A technical repository of real-world HDD and SSD recovery procedures. This project documents hardware-level diagnostics using tools like PC3000, including head swaps, firmware repair, and platter inspection. Each case is treated as a digital forensics exercise, emphasizing data integrity and forensic preservation.
 
 ### **⚡Power Supply**
 🔗 [bench-dual-power-supply](https://github.com/FGlez21/bench-dual-power-supply)  
-My first engineering project.
+Design and implementation of a dual-channel bench power supply, serving as my foundational project in power electronics. Focuses on linear regulation, circuit protection, and PCB layout design to provide stable DC rails for embedded systems development and hardware testing.
 
 ---
 
