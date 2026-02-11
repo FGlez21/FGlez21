@@ -95,8 +95,8 @@ Use this index to explore my work:
 
 ## 🔍 Featured Projects
 
-### **📑 Thermal Saturation and Mechanical Analysis**
-🔗 [thermal-saturation-analysis](https://github.com/FGlez21/thermal-saturation-analysis)  
+### **📑 Industrial Failure Analysis**
+🔗 [industrial-failure-analysis](https://github.com/FGlez21/industrial-failure-analysis)  
 Technical Investigation into Diverter Gate Failures (USPS Chicago P&DC).
 
 ### **📁 Data Recovery Cases**
